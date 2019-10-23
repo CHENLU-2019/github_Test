@@ -8,5 +8,6 @@ public class mygithub {
     public static void main(String[] args) {
         System.out.println("从idea提交文件到GitHubasdf");
         System.out.println("从idea提ssafsd交文件到GitHubfgsdfg");
+        System.out.println("sdfsdf");
     }
 }
