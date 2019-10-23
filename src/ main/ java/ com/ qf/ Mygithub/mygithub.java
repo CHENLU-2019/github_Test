@@ -9,5 +9,6 @@ public class mygithub {
         System.out.println("从idea提ssafsd交文件到GitHubfgsdfg");
         System.out.println("sfdsdfa");
         System.out.println("asdfasdf");
+        System.out.println("add...");
     }
 }
